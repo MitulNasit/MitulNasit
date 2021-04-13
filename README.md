@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/arvind-singh-87251b208](www.linkedin.com/in/arvind-singh-87251b208)
 
-- ⚡ Fun fact **I am not girl**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
