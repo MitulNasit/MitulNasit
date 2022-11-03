@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/_python.py_/](https://www.instagram.com/_python.py_/)
 
-- 💬 Ask me about **Python, Django, AWS, Web Technologis**
+- 💬 Ask me about **Python, java, Web Technologis**
 
 - 📫 How to reach me **imitulnasit@gmail.com**
 
