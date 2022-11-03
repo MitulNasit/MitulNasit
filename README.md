@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studing **Master in Computer Science**
 
-- 🌱 I’m currently learning **Javascript Anguler , React framework**
+- 🌱 I’m currently learning **Javascript**
 
 - 📝 I regularly write articles on [https://www.instagram.com/_python.py_/](https://www.instagram.com/_python.py_/)
 
