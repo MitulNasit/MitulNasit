@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mitul-nasit-3ba2b418b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-s-87251b208" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arvind-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arvind-singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20793923/mitul-nasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arvind-singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mitul.nasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_python.py_" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages</h3>
