@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitul</h1>
 <h3 align="center">I impelment client ideas in software. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avii1099&label=Profile%20views&color=0e75b6&style=flat" alt="avii1099" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MitulNasit&label=Profile%20views&color=0e75b6&style=flat" alt="MitulNasit" /> </p>
 
 - 🔭 I’m currently studing **Master in Computer Science**
 
